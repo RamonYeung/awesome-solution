@@ -1,6 +1,6 @@
 # README
 
-There are awesome solutions about the PPD data mining competition mentioned in the offical website\([Kesci]\)(http://www.kesci.com/), which has been listed below.
+There are awesome solutions about the PPD data mining competition mentioned in the offical website\([Kesci](http://www.kesci.com/)\), which has been listed below.
 
 [nemo\_submit1/165](http://www.kesci.com/apps/home_log/index.html#!/forum/postdetail/574a932f874e65042e150ce8)
 
